@@ -199,6 +199,33 @@ hr.small {
     margin-bottom: 30px;
 }
 
+/*.project-size {
+  width: 33%;
+  padding-left: 10px;
+  padding-right: 10px;
+}*/
+
+@media (min-width: 992px) {
+  .col-md-3 {
+    width: 33%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .col-lg-offset-1 {
+    margin-left: 0;
+  }
+
+  .col-lg-10 {
+    width: 100%;
+  }
+}
+
+.img-responsive {
+  margin: 0 auto;
+  max-height: 240px;
+}
+
 /* Callout */
 
 .callout {
@@ -222,6 +249,7 @@ hr.small {
 .devicon > i {
   font-size: 60px;
   margin: 20px;
+  line-height: inherit;
 }
 
 /* Portfolio */
