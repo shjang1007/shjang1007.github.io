@@ -165,7 +165,7 @@ hr.small {
 /* About */
 
 .about {
-    padding: 50px 0;
+  padding: 50px 0;
 }
 
 #about-contents {
@@ -309,4 +309,9 @@ footer {
   position: fixed;
   bottom: 5px;
   right: 5px;
+}
+
+
+.margin-bottom-20px {
+  margin-bottom: 20px;
 }
