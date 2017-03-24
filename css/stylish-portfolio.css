@@ -168,6 +168,10 @@ hr.small {
   padding: 50px 0;
 }
 
+.about-me-text {
+  margin-top: 0;
+}
+
 #about-contents {
   display: flex;
 }
@@ -312,6 +316,7 @@ footer {
 }
 
 
-.margin-bottom-20px {
+.margin-top-bottom-20px {
+  margin-top: 20px;
   margin-bottom: 20px;
 }
