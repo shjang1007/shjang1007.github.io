@@ -255,6 +255,10 @@ hr.small {
   height: 250px;
 }
 
+.btn-live {
+  margin-right: 30px;
+}
+
 /* Callout */
 
 .callout {
